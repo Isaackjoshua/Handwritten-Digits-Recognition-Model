@@ -34,6 +34,7 @@ It contains:
 
 ## ⚙️ Technologies & Tools
 - Python
+- Pandas
 - NumPy
 - scikit-learn
 - Matplotlib (for visualization)
@@ -87,8 +88,7 @@ python main.py
 
 * Achieves competitive accuracy for a linear classifier
 * Demonstrates how classical ML algorithms can still be effective for image classification tasks
-* Useful as a learning foundation before moving to deep learning models like CNNs
-
+* Useful as a learning foundation before moving to deep learning models like CNNs.
 ---
 
 ## 🔮 Future Improvements
