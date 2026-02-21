@@ -34,7 +34,7 @@ It contains:
 
 ## ⚙️ Technologies & Tools
 - Python
-jupyter notebook
+- jupyter notebook
 - Pandas
 - NumPy
 - scikit-learn
