@@ -2,7 +2,7 @@
 ````markdown
 # Handwritten Digits Recognition Model
 
-This project implements a **Handwritten Digits Recognition** system using **Logistic Regression** trained on the **MNIST dataset** via **scikit-learn**.  
+This project implements a **Handwritten Digits Recognition** system using **Logistic Regression** trained on the **MNIST dataset** using **scikit-learn**.  
 The goal is to demonstrate a simple yet effective classical machine learning approach to image classification.
 
 ---
